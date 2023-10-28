@@ -33,18 +33,18 @@
 //   alert("Identifients invalides");
 // }
 
-function Bonjour(name) {
-  console.log("Bonjour à vous " + name);
-}
+// function Bonjour(name) {
+//   console.log("Bonjour à vous " + name);
+// }
 
-// Function lié avec le button dans l'HTML
-function Greet(name) {
-  alert("Bonjour à vous " + name);
-}
+// // Function lié avec le button dans l'HTML
+// function Greet(name) {
+//   alert("Bonjour à vous " + name);
+// }
 
 // LOOPS
 
-var chiffreActuel = 10;
+// var chiffreActuel = 10;
 
 // while (chiffreActuel < 10) {
 //   console.log("Le chiffre est de : " + chiffreActuel);
@@ -56,8 +56,8 @@ var chiffreActuel = 10;
 //   chiffreActuel--;
 // } while (chiffreActuel > 3);
 
-for (var index = 0; index < 10; index++) {
-  console.log("JE SUIS DANS LA LOOP HELPPPPP Indéx n° : " + index);
-}
+// for (var index = 0; index < 10; index++) {
+//   console.log("JE SUIS DANS LA LOOP HELPPPPP Indéx n° : " + index);
+// }
 
-console.log("JESUIS SORTIEEEEEE ", index);
+// console.log("JESUIS SORTIEEEEEE ", index);
